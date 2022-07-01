@@ -1,0 +1,103 @@
+.card {
+  border-radius: 10px;
+  background-color: rgb(44, 46, 46);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 8px;
+  height: 150px;
+  margin-top: 20px;
+}
+
+.card p {
+  margin: 10px;
+  font-size: 15px;
+  color: white;
+}
+
+.card h3 {
+  color: white;
+  margin: 10px;
+}
+
+.container-cards {
+  display: flex;
+  flex-direction: column;
+  width: 96vw;
+  max-width: 500px;
+}
+
+.child-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(1, 19, 28);
+}
+
+.buttons {
+  margin-top: 30px;
+  margin-bottom: 60px;
+}
+
+.buttons button {
+  padding: 10px;
+  border: none;
+  color: white;
+  background-color: rgb(255, 145, 0);
+  margin: 2px;
+  width: 80px;
+}
+
+.previous {
+  border-radius: 50% 0 0 50%;
+}
+
+.next {
+  border-radius: 0 50% 50% 0;
+}
+
+.line {
+  width: 100%;
+  border-bottom: 1px solid grey;
+  margin-bottom: 50px;
+  margin-top: 60px;
+}
+
+.child-page a {
+  padding: 10px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  background-color: rgba(241, 136, 0, 0.937);
+  border-radius: 5px;
+  margin: 10px;
+  position: absolute;
+  left: 30px;
+}
+
+.child-page p {
+  color: white;
+}
+
+.child-page h2 {
+  color: white;
+}
+
+.buttons h4 {
+  color: white;
+}
+
+.big-car-img {
+  max-height: 80px;
+  position: absolute;
+  right: 60px;
+  max-width: 200px;
+  height: auto;
+  top: 30px;
+}
+
+input {
+  border-radius: 10px;
+  border: 1px solid white;
+  color: rgb(0, 0, 0);
+  padding-left: 10px;
+}
