@@ -20,9 +20,9 @@ To get a local copy up and running follow these simple example steps.
 
 ## Live link
 
-See the [live demo]() of my Car's App.
+See the [live demo](https://app.netlify.com/sites/astounding-cajeta-62b531/overview) of my Car's App.
 
-or [view the video of explaning the project]()
+or [view the video of explaning the project](https://www.loom.com/share/f9312a3237824334bc95421b7a59551b)
 
 ## 👤 Author
 
