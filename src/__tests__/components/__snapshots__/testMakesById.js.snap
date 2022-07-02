@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`component render correctely 1`] = `
+<div
+  className="child-page"
+>
+  <img
+    alt=""
+    className="big-car-img"
+    src="black-car8.png"
+  />
+  <div
+    className="line"
+  />
+  <h2>
+    Vehicles Makes by Name
+  </h2>
+  <p>
+    Enter the name of vehicle
+  </p>
+  <input
+    onChange={[Function]}
+    onKeyDown={[Function]}
+    placeholder="...search"
+    type="search"
+  />
+  <section
+    className="container-cards"
+  />
+  <div
+    className="buttons"
+  >
+    <h4>
+      1
+       
+      of
+       
+      0
+    </h4>
+    <button
+      className="previous"
+      onClick={[Function]}
+      type="button"
+    >
+      previous
+    </button>
+    <button
+      className="next"
+      onClick={[Function]}
+      type="button"
+    >
+      next page
+    </button>
+  </div>
+</div>
+`;

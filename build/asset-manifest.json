@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.05760e48.css",
+    "main.js": "/static/js/main.394950a4.js",
+    "static/media/black-car7.png": "/static/media/black-car7.b9be06904754db04510e.png",
+    "static/media/black-car9.png": "/static/media/black-car9.854872e6db1fa89becfc.png",
+    "static/media/car-tire.png": "/static/media/car-tire.1903aed53919bd01208d.png",
+    "static/media/black-car8.png": "/static/media/black-car8.c7d6e9d72b919788437c.png",
+    "static/media/black-car1.png": "/static/media/black-car1.1214645c48c93b51486c.png",
+    "static/media/car-home.png": "/static/media/car-home.b6fc886865a60fe6f142.png",
+    "static/media/black-car10.png": "/static/media/black-car10.0a29095c44848cda9534.png",
+    "static/media/black-car4.png": "/static/media/black-car4.dade2dd7ad9257dee79d.png",
+    "static/media/black-car5.png": "/static/media/black-car5.cd93793a9ef1b6075c10.png",
+    "index.html": "/index.html",
+    "main.05760e48.css.map": "/static/css/main.05760e48.css.map",
+    "main.394950a4.js.map": "/static/js/main.394950a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05760e48.css",
+    "static/js/main.394950a4.js"
+  ]
+}

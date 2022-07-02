@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`component render correctely 1`] = `
+<div
+  className="child-page"
+>
+  <img
+    alt=""
+    className="big-car-img"
+    src="car-tire.png"
+  />
+  <div
+    className="line"
+  />
+  <h2>
+    All manufacturers
+  </h2>
+  <section
+    className="container-cards"
+  />
+  <div
+    className="buttons"
+  >
+    <h4>
+      1
+       
+      of
+       
+      0
+    </h4>
+    <button
+      className="previous"
+      onClick={[Function]}
+      type="button"
+    >
+      previous
+    </button>
+    <button
+      className="next"
+      onClick={[Function]}
+      type="button"
+    >
+      next page
+    </button>
+  </div>
+</div>
+`;
