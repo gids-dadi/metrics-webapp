@@ -22,42 +22,35 @@ function GetMakesByName() {
   };
 
   return (
-    <div className='child-page'>
-      <img src={carImg} alt='' className='big-car-img' />
-      <div className='line' />
+    <div className="child-page">
+      <img src={carImg} alt="" className="big-car-img" />
+      <div className="line" />
       <h2>Vehicles Makes by Name</h2>
       <p>Enter the name of vehicle</p>
-      <input
-        type='search'
-        onChange={dropvalue}
-        onKeyDown={submitUrl}
-        placeholder='...search'
-      />
-      <section className='container-cards' />
-      <div className='buttons'>
+      <input type="search" onChange={dropvalue} onKeyDown={submitUrl} placeholder="...search" />
+      <section className="container-cards" />
+      <div className="buttons">
         <h4>
-          {page + 1} of {numPages}
+          {page + 1}
+          {' '}
+          of
+          {' '}
+          {numPages}
         </h4>
         <button
-          className='previous'
-          type='button'
+          className="previous"
+          type="button"
           onClick={() => {
-            if (page <= 0) {
-              setPage(numOfpages);
-            }
-            setPage(page - 1);
+            if (page <= 0) { setPage(numOfpages); } setPage(page - 1);
           }}
         >
           previous
         </button>
         <button
-          className='next'
-          type='button'
+          className="next"
+          type="button"
           onClick={() => {
-            if (page >= numOfpages) {
-              setPage(0);
-            }
-            setPage(page + 1);
+            if (page >= numOfpages) { setPage(0); } setPage(page + 1);
           }}
         >
           next page
